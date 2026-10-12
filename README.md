@@ -3,7 +3,7 @@
 Saya Full Stack Developer yang masih belajar. Fokus saya di frontend, backend, mobile, dan database. Repo ini adalah kode sumber untuk website portofolio saya.
 
 <p align="center">
-  <a href="https://firdyawanhelmi.github.io/portofolio-helmi/">Portofolio</a>
+  <a href="https://firdyawanhelmi.github.io/portofoliohelmi/">Portofolio</a>
 </p>
 
 <h2 align="center">TECH STACK</h2>
